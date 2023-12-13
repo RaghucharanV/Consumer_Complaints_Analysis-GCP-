@@ -7,6 +7,7 @@ Text-Mining
 **EXTRACT**
 
 Extract data from resources to Cloud storage >> DATA LAKE
+
 [GO TO FILE](https://github.com/RaghucharanV/Consumer_Complaints_Analysis-GCP-/blob/main/Cloud_Storage/cloud.md)
 
 **TRANSFORM**
