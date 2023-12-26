@@ -11,7 +11,6 @@
 
 2. Select the project "Text-mining" and Create a Cloud Bucket for Extract and load in the Cloud.
 
-![Screenshot (826)](https://github.com/RaghucharanV/Consumer_Complaints_Analysis-GCP-/assets/81848656/9ec24e3b-4008-4a29-8b67-51d2d9033ad7)
 ![Screenshot (828)](https://github.com/RaghucharanV/Consumer_Complaints_Analysis-GCP-/assets/81848656/c04d0570-e310-4119-9e0e-cff71469e750)
 ![Screenshot (829)](https://github.com/RaghucharanV/Consumer_Complaints_Analysis-GCP-/assets/81848656/26c0879e-1ddc-4d0a-ae72-7692294c6a71)
 
